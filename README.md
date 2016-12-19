@@ -39,3 +39,8 @@ This repository contains the code for the Intelligent Subtraction Tutor that I m
 Here's the link to facebook's documentation explaining detailed steps to make an app and page ,
 
           https://developers.facebook.com/docs/messenger-platform/guides/quick-start
+          
+4 Create an account on https://wit.ai . Use the wit.ai API for the communication between wit.ai server and your server.
+
+5 Train the bot according to your needs. 
+
