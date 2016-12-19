@@ -44,5 +44,7 @@ Here's the link to facebook's documentation explaining detailed steps to make an
 
 5 Train the bot according to your needs. 
 
+Note : Both Facebook and wit.ai provide their API keys. The code above uses those api keys, which were generated from my account.
+
 
 
