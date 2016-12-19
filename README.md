@@ -34,7 +34,8 @@ This repository contains the code for the Intelligent Subtraction Tutor that I m
           $ mkdir intelligent-subtraction-tutor && cd intelligent-subtraction-tutor
           $ npm install -g modulus
 
-3. Create a Facebook Page and App :
+
+3  Create a Facebook Page and App :
 Here's the link to facebook's documentation explaining detailed steps to make an app and page ,
 
           https://developers.facebook.com/docs/messenger-platform/guides/quick-start
